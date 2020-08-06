@@ -1,0 +1,17 @@
+C:\Nikhil\Docker\Training\bookstore\obj\Debug\netcoreapp2.1\bookstore.csproj.CoreCompileInputs.cache
+C:\Nikhil\Docker\Training\bookstore\obj\Debug\netcoreapp2.1\bookstore.RazorAssemblyInfo.cache
+C:\Nikhil\Docker\Training\bookstore\obj\Debug\netcoreapp2.1\bookstore.RazorAssemblyInfo.cs
+C:\Nikhil\Docker\Training\bookstore\obj\Debug\netcoreapp2.1\bookstore.AssemblyInfoInputs.cache
+C:\Nikhil\Docker\Training\bookstore\obj\Debug\netcoreapp2.1\bookstore.AssemblyInfo.cs
+C:\Nikhil\Docker\Training\bookstore\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Nikhil\Docker\Training\bookstore\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Nikhil\Docker\Training\bookstore\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Nikhil\Docker\Training\bookstore\bin\Debug\netcoreapp2.1\bookstore.deps.json
+C:\Nikhil\Docker\Training\bookstore\bin\Debug\netcoreapp2.1\bookstore.runtimeconfig.json
+C:\Nikhil\Docker\Training\bookstore\bin\Debug\netcoreapp2.1\bookstore.runtimeconfig.dev.json
+C:\Nikhil\Docker\Training\bookstore\bin\Debug\netcoreapp2.1\bookstore.dll
+C:\Nikhil\Docker\Training\bookstore\bin\Debug\netcoreapp2.1\bookstore.pdb
+C:\Nikhil\Docker\Training\bookstore\obj\Debug\netcoreapp2.1\bookstore.RazorTargetAssemblyInfo.cache
+C:\Nikhil\Docker\Training\bookstore\obj\Debug\netcoreapp2.1\bookstore.dll
+C:\Nikhil\Docker\Training\bookstore\obj\Debug\netcoreapp2.1\bookstore.pdb
+C:\Nikhil\Docker\Training\bookstore\obj\Debug\netcoreapp2.1\bookstore.genruntimeconfig.cache

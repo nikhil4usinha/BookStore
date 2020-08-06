@@ -1,31 +1,31 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Nikhil\\Docker\\Training\\rps_ey_ms_2019\\bookstore\\bookstore.csproj": {}
+    "C:\\Nikhil\\Docker\\Training\\bookstore\\bookstore.csproj": {}
   },
   "projects": {
-    "C:\\Nikhil\\Docker\\Training\\rps_ey_ms_2019\\bookstore\\bookstore.csproj": {
+    "C:\\Nikhil\\Docker\\Training\\bookstore\\bookstore.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Nikhil\\Docker\\Training\\rps_ey_ms_2019\\bookstore\\bookstore.csproj",
+        "projectUniqueName": "C:\\Nikhil\\Docker\\Training\\bookstore\\bookstore.csproj",
         "projectName": "bookstore",
-        "projectPath": "C:\\Nikhil\\Docker\\Training\\rps_ey_ms_2019\\bookstore\\bookstore.csproj",
+        "projectPath": "C:\\Nikhil\\Docker\\Training\\bookstore\\bookstore.csproj",
         "packagesPath": "C:\\Users\\Nikhil.Sinha\\.nuget\\packages\\",
-        "outputPath": "C:\\Nikhil\\Docker\\Training\\rps_ey_ms_2019\\bookstore\\obj\\",
+        "outputPath": "C:\\Nikhil\\Docker\\Training\\bookstore\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Nikhil.Sinha\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "netcoreapp2.2"
+          "netcoreapp2.1"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "netcoreapp2.2": {
+          "netcoreapp2.1": {
             "projectReferences": {}
           }
         },
@@ -36,12 +36,12 @@
         }
       },
       "frameworks": {
-        "netcoreapp2.2": {
+        "netcoreapp2.1": {
           "dependencies": {
             "Microsoft.AspNetCore.App": {
               "suppressParent": "All",
               "target": "Package",
-              "version": "[2.2.0, )",
+              "version": "[2.1.1, )",
               "autoReferenced": true
             },
             "Microsoft.AspNetCore.Razor.Design": {
@@ -52,7 +52,7 @@
             "Microsoft.NETCore.App": {
               "suppressParent": "All",
               "target": "Package",
-              "version": "[2.2.0, )",
+              "version": "[2.1.0, )",
               "autoReferenced": true
             },
             "MongoDB.Driver": {

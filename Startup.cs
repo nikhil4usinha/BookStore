@@ -34,7 +34,7 @@ namespace bookstore
             var bookContext = new BookContext(config.MongoDB);
             var repo = new BookRepository(bookContext);
             services.AddSingleton<IBookRepository>(repo);
-            services.AddMvc().SetCompatibilityVersion(CompatibilityVersion.Version_2_2);
+            services.AddMvc().SetCompatibilityVersion(CompatibilityVersion.Version_2_1);
             services.AddDiscoveryClient(Configuration);
         }
 
